@@ -1,1 +1,1 @@
-# APP-enviar-email-com-Node.js
+Aplicação simples para enviar emails com node.js usando a lib Nodemailer. 
